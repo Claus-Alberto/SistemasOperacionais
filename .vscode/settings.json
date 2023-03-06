@@ -1,0 +1,6 @@
+{
+    "cmake.sourceDirectory": "/workspaces/SistemasOperacionais",
+    "files.associations": {
+        "queue.h": "c"
+    }
+}
